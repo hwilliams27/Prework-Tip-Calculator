@@ -4,7 +4,7 @@
 
 Submitted by: **Hannah Williams**
 
-Time spent: **1** hour spent in total
+Time spent: **2** hour spent in total
 
 ## User Stories
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenges I had with the app were getting used to Xcode platform and how to work with it to code a mobile app, since I have never worked with mobile development before. Looking at further resources helped me to navigate around Xcode quicker and allowed me to figure out how to customize the views on the view controller. Along with this, running the code to display on the correct screen size was confusing as well and took some time to get correct. It was a nice and new experience for me to work with Swift, and I am excited to expand my knowledge of mobile development!
 
 ## License
 
