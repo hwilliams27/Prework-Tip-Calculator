@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-The main challenges I had with the app were getting used to Xcode platform and how to work with it to code a mobile app, since I have never worked with mobile development before. Looking at further resources helped me to navigate around Xcode quicker and allowed me to figure out how to customize the views on the view controller. Along with this, running the code to display on the correct screen size was confusing as well and took some time to get correct. It was a nice and new experience for me to work with Swift, and I am excited to expand my knowledge of mobile development!
+The main challenges I had with the app were getting used to the Xcode platform and how to work with it to code a mobile app, since I have never worked with mobile development before. Looking at further resources helped me to navigate around Xcode quicker and allowed me to figure out how to customize the views on the view controller (as an example, I couldn't figure out how to edit and manipulate the segemented controller at first, but then figured out I could add segments and text on the side bar). Along with this, running the code to display on the correct mobile screen size was confusing at first as well and took some time to get correct. It was a interesting and new  for me to work with Swift and how the code you write connects to the views added onto screen. I am excited to continue to expand my knowledge of mobile development!
 
 ## License
 
